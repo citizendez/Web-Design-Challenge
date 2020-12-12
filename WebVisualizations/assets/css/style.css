@@ -1,0 +1,21 @@
+img.vis {
+    max-width: 400px;
+    float: left;
+}
+img.vis-sm {
+    max-width: 150px;
+    float: left;
+}
+.navbar-nav {
+    float: right;
+}
+.vis-page .section-main .vis {
+    max-width: 100%;
+}
+.pg-comparison .comparison-vis {
+    max-width: 90%;
+}
+
+.comp-image-grid {
+    text-align: center;
+}
