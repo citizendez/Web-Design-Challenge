@@ -19,3 +19,7 @@ img.vis-sm {
 .comp-image-grid {
     text-align: center;
 }
+p {
+    line-height: 1.75em;
+    font-size: 1.2em;
+}
