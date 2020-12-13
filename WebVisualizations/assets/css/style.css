@@ -23,3 +23,20 @@ p {
     line-height: 1.75em;
     font-size: 1.2em;
 }
+nav a {
+    color: rgba(0,0,0,.9);
+}
+@media (max-width: 980px){
+    nav.bg-light {
+        background-color: rgb(192, 191, 191) !important;
+    }
+    nav a {
+        
+    }
+
+    .navbar-toggler {
+        
+        
+    }
+}
+
